@@ -11,4 +11,4 @@ The app allows the user:
   - Remove a product.
   - See graphically and numerically how much content has been viewed and in how much time.
     
-![](https://github.com/carmar0/GestorProductos/blob/master/GestorProductos.JPG
+![](https://github.com/carmar0/GestorProductos/blob/master/GestorProductos.JPG)
